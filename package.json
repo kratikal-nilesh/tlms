@@ -96,7 +96,7 @@
     "archiver": "7.0.1",
     "archiver-zip-encrypted": "2.0.0",
     "authenticator": "^1.1.5",
-    "aws-sdk": "2.1573.0",
+    "aws-sdk": "2.1692.0",
     "axios": "1.7.2",
     "bcrypt-nodejs": "0.0.3",
     "bitly": "7.1.2",
